@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<MapSneakorDownloadConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskQueue>
+    <MapSneakorTask>
+      <East>114.365521967411</East>
+      <North>30.5388920270943</North>
+      <South>30.5382936977193</South>
+      <West>114.36451613903</West>
+      <CurLevel>21</CurLevel>
+      <CurRow>861602</CurRow>
+      <CurCol>1714803</CurCol>
+      <DownLoadAllCount>0</DownLoadAllCount>
+      <DownLoadCompleteCount>29</DownLoadCompleteCount>
+      <pauseLock />
+      <sizelock />
+      <SyncObject />
+      <SyncObjectTag />
+      <Name>未命名</Name>
+      <MapSourceName />
+      <MapProviderGuid>3ac742dd-966b-4cfb-b67d-33e7f82f2d37</MapProviderGuid>
+      <ThreadCount>15</ThreadCount>
+      <Levellist>
+        <int>0</int>
+        <int>1</int>
+        <int>2</int>
+        <int>3</int>
+        <int>4</int>
+        <int>5</int>
+        <int>6</int>
+        <int>7</int>
+        <int>8</int>
+        <int>9</int>
+        <int>10</int>
+        <int>11</int>
+        <int>12</int>
+        <int>13</int>
+        <int>14</int>
+        <int>15</int>
+        <int>16</int>
+        <int>17</int>
+        <int>18</int>
+        <int>19</int>
+        <int>20</int>
+        <int>21</int>
+      </Levellist>
+      <Cntlist>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>1</long>
+        <long>2</long>
+        <long>4</long>
+        <long>4</long>
+        <long>4</long>
+        <long>12</long>
+        <long>35</long>
+      </Cntlist>
+      <Savepath>C:\Users\Ray\Desktop\gpcw</Savepath>
+      <Base64Polygon />
+      <FileFormat>原始格式</FileFormat>
+      <Encrypt>true</Encrypt>
+      <ImmediatelyDownload>true</ImmediatelyDownload>
+      <Downloadstate>Finished</Downloadstate>
+      <TransferedSize>514689</TransferedSize>
+      <CreateTime>2016-07-02T14:13:30.8600577+08:00</CreateTime>
+    </MapSneakorTask>
+  </TaskQueue>
+</MapSneakorDownloadConfiguration>
